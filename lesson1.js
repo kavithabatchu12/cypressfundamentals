@@ -1,5 +1,6 @@
 console.log("Hellow world")
 //variables
+//sree
 var firstname="john"
 let lastname="smith"
 console.log(firstname)
